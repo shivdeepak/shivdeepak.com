@@ -32,4 +32,5 @@ enableRobotsTXT = true
     {name = "x", url = "https://x.com/shivdeepakm"},
     {name = "linkedin", url = "https://www.linkedin.com/in/shivdeepak/"},
     {name = "instagram", url = "https://instagram.com/shivdeepak1st"},
+    {name = "gmail", url = "mailto:shivdeepak@gmail.com"},
   ]
