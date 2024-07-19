@@ -4,24 +4,25 @@ title = 'Shiv Deepak'
 theme = 'goa'
 
 enableRobotsTXT = true
+pygmentsStyle = "monokai"
 
 [menu]
+  [[menu.main]]
+    identifier = "about"
+    url = "/about"
+    name = "About"
+    weight = 2
+
   [[menu.main]]
     identifier = "posts"
     url = "/posts/"
     name = "Posts"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "contact"
     url = "/contact"
     name = "Contact"
-    weight = 3
-
-  [[menu.main]]
-    identifier = "about"
-    url = "/about"
-    name = "About"
     weight = 4
 
 [params]
