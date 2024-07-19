@@ -23,3 +23,13 @@ enableRobotsTXT = true
     url = "/about"
     name = "About"
     weight = 4
+
+[params]
+  avatarURL = "/images/shiv.jpeg"
+  avatarSize = "size-l"
+  description = "Product Engineering Consultant"
+  socialIcons = [
+    {name = "x", url = "https://x.com/shivdeepakm"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/shivdeepak/"},
+    {name = "instagram", url = "https://instagram.com/shivdeepak1st"},
+  ]
