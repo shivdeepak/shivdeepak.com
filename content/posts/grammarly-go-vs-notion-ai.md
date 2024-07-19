@@ -1,5 +1,5 @@
 +++
-title = 'Grammarly Go vs Notion AI'
+title = 'Grammarly Go vs. Notion AI'
 date = 2023-10-18T23:31:44-07:00
 draft = false
 type = "post"
