@@ -1,4 +1,25 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://shivdeepak.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'gokarna'
+title = 'Shiv Deepak'
+theme = 'goa'
+
+enableRobotsTXT = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    url = "/posts/"
+    name = "Posts"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    url = "/contact"
+    name = "Contact"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    url = "/about"
+    name = "About"
+    weight = 4
