@@ -1,5 +1,6 @@
 +++
 title = 'Work Life Balance'
+description = 'Spending the weekend in Bangalore with friends who are directors and entrepreneurs, we experienced a unique work-life balance. Amidst socializing, they seamlessly integrated work into their downtime, showcasing a harmonious blend of productivity and relaxation that challenges traditional views on work breaks and off-hours.'
 date = 2022-12-03T05:16:44-07:00
 draft = false
 type = "post"

@@ -1,5 +1,6 @@
 +++
 title = 'Contact'
+description = 'For consultations and collaborations, contact Shiv Deepak Muddada at shivdeepak@gmail.com. Expect a prompt response within the next business day.'
 date = 2024-07-19T12:22:35-07:00
 type = 'page'
 draft = false

@@ -1,5 +1,6 @@
 +++
 title = 'About'
+description = 'Experienced software engineer and startup enthusiast with over 20 years of programming expertise. Former Co-Founder & CTO at Touch AI and first employee at HackerRank. Passionate about open source, product-led growth, and cloud optimization. Offering consulting services for SaaS startups and open to technical content collaborations.'
 date = 2024-07-19T12:22:40-07:00
 type = 'page'
 draft = false

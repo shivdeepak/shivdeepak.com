@@ -1,5 +1,6 @@
 +++
 title = 'Grammarly Go vs. Notion AI'
+description = 'Struggling to choose between Grammarly and Notion AI? This blog post explores the strengths and weaknesses of both AI tools. Discover the features, usability, and subscription costs to help you decide which one suits your writing needs best. Read on to find out if you should stick with Grammarly or switch to Notion AI.'
 date = 2023-10-18T23:31:44-07:00
 draft = false
 type = "post"

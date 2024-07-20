@@ -1,5 +1,6 @@
 +++
 title = 'Become a 10x Programmer with ChatGPT'
+description = "Discover how being the solo engineer for Aeroh became significantly more manageable with ChatGPT. Learn how using GPT-4 transformed coding across multiple tech stacks, boosting productivity by 10x and streamlining development tasks. From Android App Development to ESP32 Firmware, see how ChatGPT enhances context-switching and accelerates project completion."
 date = 2023-04-11T02:17:44-07:00
 draft = false
 type = "post"

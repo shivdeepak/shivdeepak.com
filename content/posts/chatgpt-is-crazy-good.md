@@ -1,5 +1,6 @@
 +++
 title = 'ChatGPT is Crazy Good!'
+description = 'Discover the potential of ChatGPT as a Google Search alternative through real-world experiments. Explore major news coverage, see how it handles open-ended programming questions, and find out if it can tackle creative tech challenges. Learn why ChatGPT could be a great assistant for programmers and customer support bots, but not a replacement for human creativity—at least not yet!'
 date = 2023-02-02T12:48:44-07:00
 draft = false
 type = "post"

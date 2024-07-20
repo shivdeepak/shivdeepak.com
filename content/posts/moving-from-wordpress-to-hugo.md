@@ -1,5 +1,6 @@
 +++
 title = 'Moving from Wordpress to Hugo'
+description = "Discover why I'm transitioning my blog from WordPress to Hugo for enhanced simplicity and faster load times. Learn about the benefits of static site generators, my experiences with various hosting solutions, and why I chose Netlify for my latest setup."
 type = "post"
 date = 2024-07-19T11:21:24-07:00
 draft = false

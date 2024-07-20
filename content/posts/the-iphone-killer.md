@@ -1,5 +1,6 @@
 +++
 title = 'The iPhone Killer'
+description = "Rant over why the iPhone 14 is dubbed as the \"iPhone Killer\". Explore the challenges of Apple's eSIM-only devices, the impact, and why even long-time iPhone enthusiast like me is reconsidering my choices."
 date = 2023-01-23T09:43:44-07:00
 draft = false
 type = "post"

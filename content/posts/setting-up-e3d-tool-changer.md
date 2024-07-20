@@ -1,5 +1,6 @@
 +++
 title = 'Setting up E3D Tool Changer'
+description = 'Discover the challenges and solutions of setting up the E3D Tool Changer, from dealing with short motor cables to fixing EMI issues. This detailed guide covers commissioning, configuration tweaks, and achieving multi-color prints for the Aeroh Link enclosure. Learn how to upgrade your 3D printing experience with practical tips and modifications.'
 date = 2023-03-30T14:01:44-07:00
 draft = false
 type = "post"

@@ -1,5 +1,6 @@
 +++
 title = 'ChatGPT and in Flight Wi-Fi'
+description = 'Discover how I turned a slow, unreliable in-flight internet connection into an opportunity to boost productivity. While flying to Paris on Air France, I experienced frustratingly slow internet speeds, making most websites, including GitHub and ChatGPT, nearly unusable. Instead of giving up, I created a command line client for ChatGPT that uses low-bandwidth API calls, allowing seamless interactions without needing a browser. Read about my experience and try out the CLI for yourself. Fork the project on GitHub and contribute to its development! Pull requests are welcome. 😊'
 type = "post"
 date = 2024-01-25T14:56:03-07:00
 draft = false

@@ -1,5 +1,6 @@
 +++
 title = 'Generating 3D Printed Labels for Harbor Freight Parts Organizer'
+description = 'Explore how to create custom, glow-in-the-dark 3D printed labels for your Harbor Freight 40 Bin Organizer. Learn how to use OpenSCAD and Python for efficient label generation, and follow step-by-step instructions to streamline your 3D printing workflow. Enhance your workspace organization with this detailed DIY guide, complete with code and setup instructions on GitHub. Perfect for makers looking to integrate personalized, multi-color labels into their projects.'
 date = 2022-11-09T15:53:44-07:00
 draft = false
 type = "post"

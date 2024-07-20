@@ -1,5 +1,6 @@
 +++
 title = 'Learning to learn.'
+description = 'Discover effective strategies to retain and expand your knowledge from technical and business books with these proven techniques. Learn how building mental models, taking detailed notes, and using the Pomodoro technique can enhance your learning and help you internalize key concepts. Explore resources like Shane Parrish’s mental models and practical tools like Kindle highlights and the Pomodoro app to make the most of your reading time. Unlock the secrets to better knowledge retention and continuous learning.'
 date = 2020-06-22T17:00:44-07:00
 draft = false
 type = "post"

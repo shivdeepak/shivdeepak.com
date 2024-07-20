@@ -1,5 +1,6 @@
 +++
 title = 'It’s so easy to host a blog today (2020)'
+description = 'Discover why I moved my blog from Posthaven to WordPress for better emoji support and customization. Learn about my seamless setup with WordPress, LetsEncrypt for SSL, and CloudFront for media hosting. Find out how I offloaded media to AWS S3 and set up automated backups with UpdraftPlus. Explore other useful plugins for social sharing, SEO, email subscriptions, and theme customization.'
 date = 2020-06-28T09:45:44-07:00
 draft = false
 type = "post"
