@@ -9,7 +9,7 @@ Today, I am moving my blog from Wordpress to [Hugo](https://gohugo.io/).
 
 The main reason for this move is simplicity, and fast load times.
 
-I have described my Wordpress setup in a [previous post](https://shivdeepak.com/its-so-easy-to-host-a-blog-today-2020). It has too many moving parts, and I am quite surprised that nothing broke yet.
+I have described my Wordpress setup in a [previous post](https://shivdeepak.com/posts/its-so-easy-to-host-a-blog-today-2020/). It has too many moving parts, and I am quite surprised that nothing broke yet.
 
 But, every now and then the website goes down because someone is running a bot against it to scan for vulnerabilities.
 
