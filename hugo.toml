@@ -9,7 +9,7 @@ pygmentsStyle = "monokai"
 [menu]
   [[menu.main]]
     identifier = "about"
-    url = "/about"
+    url = "/about/"
     name = "About"
     weight = 2
 
@@ -21,7 +21,7 @@ pygmentsStyle = "monokai"
 
   [[menu.main]]
     identifier = "contact"
-    url = "/contact"
+    url = "/contact/"
     name = "Contact"
     weight = 4
 
