@@ -6,6 +6,8 @@ theme = 'goa'
 enableRobotsTXT = true
 pygmentsStyle = "monokai"
 
+disableKinds = ['taxonomy', 'term']
+
 [menu]
   [[menu.main]]
     identifier = "about"
