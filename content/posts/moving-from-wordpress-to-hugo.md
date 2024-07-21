@@ -18,6 +18,8 @@ Although, I tried to mitigate much of it with Cloudflare, but that's not enough,
 
 Great thing about Hugo is it generates static HTML/CSS files, which means you are hosting static files, and are not generating it dynamically at request time. Which makes this setup blazing fast, and very easy to host.
 
+Here's the [Github repository](https://github.com/shivdeepak/shivdeepak.com) that holds this blog if you would like to fork.
+
 I am a big fan of serverless because it takes away the maintainance burden from the admin. I have used Github pages, Cloudflare Pages and Vercel in the past.
 
 But this time I am going to use Netlify, because I have heard many good things about it. Mainly, it can handle redirects, which I am planning to leverage to do SEO redirects.
