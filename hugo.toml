@@ -30,7 +30,7 @@ disableKinds = ['taxonomy', 'term']
 [params]
   avatarURL = "/images/shiv.jpeg"
   avatarSize = "size-l"
-  description = "Product Engineering Consultant"
+  description = "Product Engineering Leader"
   socialIcons = [
     {name = "x", url = "https://x.com/shivdeepakm"},
     {name = "linkedin", url = "https://www.linkedin.com/in/shivdeepak/"},
