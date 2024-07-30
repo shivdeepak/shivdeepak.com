@@ -14,6 +14,8 @@ In this article, I’ll cover string interpolation in Python. Interestingly, the
 
 Here are the five ways to do string interpolation in Python:
 
+
+
 **Using `%` Operator**
 
 ```python
@@ -49,6 +51,16 @@ print(greeting)
 
 I appreciate the variable naming here because it enhances readability, especially when dealing with many variables, although it is quite verbose.
 
+However, this is great if you have all your variables in a python dictionary. For example:
+
+```python
+user = {
+    "name": "Alice",
+    "age": 30
+}
+greeting = "Hello, {name}. You are {age} years old.".format(**user)
+print(greeting)
+```
 
 **Using f-strings**
 
@@ -75,6 +87,8 @@ c = a + b = {add(a, b)}"""
 print(text)
 ```
 
+
+
 **Using Template String**
 
 ```python
@@ -87,11 +101,15 @@ print(greeting)
 
 This method might be useful for processing user input, but I find it too verbose and prefer other alternatives.
 
+
+
 **Other Methods**
 
 There are a lot of other ways to do string interpolation in Python. For example, using `print` with `sep=""` argument, or by joining a list with `list.join("")`, or by using `+` operator. 
 
 I am not covering them here, because they are less readable and more verbose.
+
+
 
 ### Multi-Line Strings
 
@@ -108,6 +126,10 @@ c = a + b = {}""".format(a, b, a+b)
 print(text)
 ```
 
+
+
 ### Conclusion
 
-For readability and brevity, I prefer using f-strings. It also supports inline operations, making it very flexible and easy to use.
+In general, for readability and brevity, I prefer using f-strings. It also supports inline operations, making it very flexible and easy to use.
+
+But, if I have a dictionary with all the required data and no computation in required, then I would go with `str.format()` with named variables.
