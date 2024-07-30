@@ -87,6 +87,11 @@ print(greeting)
 
 This method might be useful for processing user input, but I find it too verbose and prefer other alternatives.
 
+**Other Methods**
+
+There are a lot of other ways to do string interpolation in Python. For example, using `print` with `sep=""` argument, or by joining a list with `list.join("")`, or by using `+` operator. 
+
+I am not covering them here, because they are less readable and more verbose.
 
 ### Multi-Line Strings
 
