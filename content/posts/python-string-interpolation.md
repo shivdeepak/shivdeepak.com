@@ -88,10 +88,21 @@ print(greeting)
 This method might be useful for processing user input, but I find it too verbose and prefer other alternatives.
 
 
-## Multi-Line Strings
+### Multi-Line Strings
 
 All five methods support multi-line strings wrapped within `"""`.
 
-## Conclusion
+```python
+a = 1
+b = 2
+
+text = """a = {}
+b = {}
+c = a + b = {}""".format(a, b, a+b)
+
+print(text)
+```
+
+### Conclusion
 
 For readability and brevity, I recommend using f-strings. It supports inline operations, making it highly flexible and easy to use.
