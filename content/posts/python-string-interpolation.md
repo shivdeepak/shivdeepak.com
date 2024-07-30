@@ -8,7 +8,7 @@ type = "post"
 
 +++
 
-As an ambidextrous programmer coding in at least 3-4 programming languages regularly, I often mix up Ruby, Python, and JavaScript syntax. To help keep things organized and provide a quick reference, I'm planning a series of articles that outline common functionalities in these languages.
+I code in atleast 3-4 programming languages regularly, I often mix up Ruby, Python, and JavaScript syntax. To help keep things organized and provide a quick reference, I'm planning a series of articles that outline common functionalities in these languages.
 
 In this article, I’ll cover string interpolation in Python. Interestingly, there are five different ways to achieve this in Python. Not only do I need to remember syntax across multiple languages, but I also have to remember five different methods for the same task in Python. Haha.
 
