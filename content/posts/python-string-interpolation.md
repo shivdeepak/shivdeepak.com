@@ -110,4 +110,4 @@ print(text)
 
 ### Conclusion
 
-For readability and brevity, I recommend using f-strings. It supports inline operations, making it highly flexible and easy to use.
+For readability and brevity, I prefer using f-strings. It also supports inline operations, making it very flexible and easy to use.
