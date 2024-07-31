@@ -132,4 +132,4 @@ print(text)
 
 In general, for readability and brevity, I prefer using f-strings. It also supports inline operations, making it very flexible and easy to use.
 
-But, if I have a dictionary with all the required data and no computation in required, then I would go with `str.format()` with named variables.
+But, if I have a dictionary with all the required data and no computation is required, then I would go with `str.format()` with named variables.
