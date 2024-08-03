@@ -14,7 +14,9 @@ In this article, I’ll cover creating subarrays in Python, Ruby and Javascript.
 
 So, here we go.
 
-Slice an array with begining and end. Begining will be inclusive, and end will be exclusive. This is the most common way to slice an array in almost all programming languages.
+### Slice an array with begining index and end index
+
+Begining will be inclusive, and end will be exclusive. This is the most common way to slice an array in almost all programming languages.
 
 **Python**
 
