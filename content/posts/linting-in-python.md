@@ -8,13 +8,17 @@ type = "post"
 
 +++
 
-I am sucker for writing consistent well formatted code. Python [PEP8](https://peps.python.org/pep-0008/) style guide is probably my most favorite thing about Python. Because Python is one of the very few programming languages ([Go Lang](https://go.dev/doc/effective_go#formatting) is another one) that that prescribe a specific style guide.
+I am sucker for writing consistent well formatted code. Python [PEP8](https://peps.python.org/pep-0008/) style guide is probably my most favorite thing about Python. Because Python is one of the very few programming languages ([Golang](https://go.dev/doc/effective_go#formatting) is another) that prescribe a specific style guide.
 
-Ruby, Javascript, C, C++ and Java don't have such a prescibed style guide, and the project / organization that is using the given language has to establish their own style guides. Formatting issues are the most contentious but the least consequential. People can adapt to different formatting styles but it's better if they don't have to, and less time is devoted to the topic if everyone adheres to the same style. So, if a programming lanaguge prescibes a style guide then you can approach this formatting Utopia. Well atleast for Python and Golang it's possible.
+Ruby, Javascript, C, C++ and Java don't have such a prescribed style guide, and the project / organization that is using the language has to establish their own style guides.
 
-In this article I am going to cover how to setup Emacs such that the you can write well formatted Python code easily without having to memorize PEP8 style guide. Here are the two features needed to achieve this:
+> Formatting issues are the most contentious but the least consequential. People can adapt to different formatting styles but it's better if they don't have to, and less time is devoted to the topic if everyone adheres to the same style.
 
-- **real time formatting checks** shows style voilations in the emacs buffer as you type.
+So, if a programming language prescribes a style guide then you can approach this formatting Utopia. Well atleast for Python and Golang it's possible.
+
+In this article I am going to cover how to setup Emacs such that you can write well formatted Python code easily without having to memorize PEP8 style guide. Here are the two features needed to achieve this:
+
+- **real time formatting checks** shows style voilations in the emacs buffer as you code.
 - **auto formatting** allows you to quickly fix all style voilations in a file with a single command.
 
 ### Install Requirements
