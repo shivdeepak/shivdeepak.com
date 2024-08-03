@@ -24,7 +24,7 @@ For setting up real time formatting checks, we will install `flycheck` package i
 And for setting up auto formating, we will need `py-autopep8` emacs package from [MELPA](https://melpa.org/#/py-autopep8). And along with that we will install `pep8` python package.
 
 
-**Install Python Packages*
+**Install Python Packages**
 
 ```shell
 pip install flake8
