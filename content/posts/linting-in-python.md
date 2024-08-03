@@ -21,7 +21,7 @@ In this article I am going to cover how to setup Emacs such that you can write w
 - **real time formatting checks** shows style voilations in the emacs buffer as you code.
 - **auto formatting** allows you to quickly fix all style voilations in a file with a single command.
 
-![Emacs with Flycheck and Flake8](/posts/images/emacs-flycheck-flake8.png)
+![Emacs with Flycheck and Flake8](/posts/images/linting-in-python/emacs-flycheck-flake8.png)
 
 ### Install Requirements
 
