@@ -14,8 +14,8 @@ Ruby, Javascript, C, C++ and Java don't have such a prescibed style guide, and t
 
 In this article I am going to cover how to setup Emacs such that the you can write well formatted Python code easily without having to memorize PEP8 style guide. Here are the two features needed to achieve this:
 
-1. **real time formatting checks** shows style voilations in the emacs buffer as you type.
-2. **auto formatting** allows you to quickly fix all style voilations in a file with a single command.
+- **real time formatting checks** shows style voilations in the emacs buffer as you type.
+- **auto formatting** allows you to quickly fix all style voilations in a file with a single command.
 
 ### Install Requirements
 
