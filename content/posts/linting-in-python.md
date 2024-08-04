@@ -102,7 +102,7 @@ Also, create the `~/.flake8` file.
 ignore = F
 ```
 
-This will disable all flakes in flake8, and keep PEP8 checks.
+This will disable all flakes in flake8, and only keep PEP8 checks.
 
 ### Configure Auto Formatting
 
