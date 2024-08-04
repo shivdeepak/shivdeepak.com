@@ -59,6 +59,17 @@ pip install pep8
   (package-install 'py-autopep8))
 ```
 
+**Setup Exec Path in Emacs**
+
+I have installed Python through anaconda from homebrew. Your setup might be different, so make necessary modifications.
+
+```elisp
+(setenv "CONDA_PREFIX"  "/opt/homebrew/anaconda3")
+(setq pip-bin-dir (expand-file-name "bin" (getenv "CONDA_PREFIX")))
+(setenv "PATH" (concat (getenv "PATH") ":" pip-bin-dir))
+(setq exec-path (append exec-path '(pip-bin-dir)))
+```
+
 ### Configure Real-time Formatting Checks
 
 ```elisp
@@ -66,7 +77,15 @@ pip install pep8
 (add-hook 'python-mode-hook 'flycheck-mode)
 
 ;; set location of flake8 executable
-(setq flycheck-python-flake8-executable "/opt/homebrew/anaconda3/bin/flake8")
+(setq flycheck-python-flake8-executable (expand-file-name "flake8" pip-bin-dir))
+
+;; setup ~/.flake8 config file
+(with-eval-after-load 'flycheck
+  (setq-default flycheck-flake8rc (expand-file-name ".flake8" (getenv "HOME"))))
+
+;; disable python-mypy and python-pylint and only keep python-flake8
+(with-eval-after-load 'flycheck
+  (setq-default flycheck-disabled-checkers '(python-mypy python-pylint)))
 
 ;; set flycheck checker to flake8 in python-mode
 (add-hook 'python-mode-hook
@@ -77,13 +96,17 @@ pip install pep8
 (global-set-key (kbd "C-c f l") 'flycheck-list-errors)
 ```
 
+Also, create the `~/.flake8` file.
+```ini
+[flake8]
+ignore = F
+```
+
+This will disable all flakes in flake8, and keep PEP8 checks.
+
 ### Configure Auto Formatting
 
 ```elisp
-;; set location of pep8 executable
-(setenv "PATH" (concat (getenv "PATH") ":/opt/homebrew/anaconda3/bin"))
-(setq exec-path (append exec-path '("/opt/homebrew/anaconda3/bin")))
-
 ;; set keyboard shortcut to auto format current buffer
 (add-hook 'python-mode-hook
           (lambda ()
