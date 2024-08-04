@@ -85,7 +85,9 @@ pip install pep8
 (setq exec-path (append exec-path '("/opt/homebrew/anaconda3/bin")))
 
 ;; set keyboard shortcut to auto format current buffer
-(define-key python-mode-map (kbd "C-c C-f") 'py-autopep8-buffer)
+(add-hook 'python-mode-hook
+          (lambda ()
+	    (local-set-key (kbd "C-c C-f") 'py-autopep8-buffer)))
 
 ;; optionally, enable auto formatting on save (not recommended)
 (add-hook 'python-mode-hook 'py-autopep8-enable-on-save)
