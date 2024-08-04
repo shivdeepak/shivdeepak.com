@@ -77,16 +77,20 @@ I have installed Python through anaconda from homebrew. Your setup might be diff
 (add-hook 'python-mode-hook 'flycheck-mode)
 
 ;; set location of flake8 executable
-(setq flycheck-python-flake8-executable (expand-file-name "flake8" pip-bin-dir))
+(setq flycheck-python-flake8-executable
+      (expand-file-name "flake8" conda-bin-dir))
 
 (with-eval-after-load 'flycheck
   (lambda ()
     (if (derived-mode-p 'python-mode)
 	(
 	 ;; setup ~/.flake8 config file
-	 (setq-default flycheck-flake8rc (expand-file-name ".flake8" (getenv "HOME")))
-	 ;; disable python-mypy and python-pylint and only keep python-flake8
-	 (setq-default flycheck-disabled-checkers '(python-mypy python-pylint))
+	 (setq-default flycheck-flake8rc
+		       (expand-file-name ".flake8" (getenv "HOME")))
+	 ;; disable python-mypy and python-pylint and
+	 ;; only keep python-flake8
+	 (setq-default flycheck-disabled-checkers
+		       '(python-mypy python-pylint))
 	 ;; select python-flake8 checker
 	 (flycheck-select-checker 'python-flake8))
       )
