@@ -88,7 +88,7 @@ I have installed Python through anaconda from homebrew. Your setup might be diff
   (setq-default flycheck-disabled-checkers '(python-mypy python-pylint)))
 
 ;; set flycheck checker to flake8 in python-mode
-(add-hook 'python-mode-hook
+(with-eval-after-load 'flycheck
           (lambda ()
             (flycheck-select-checker 'python-flake8)))
 
