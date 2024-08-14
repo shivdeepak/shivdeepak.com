@@ -30,7 +30,7 @@ disableKinds = ['taxonomy', 'term']
 [params]
   avatarURL = "/images/shiv.jpeg"
   avatarSize = "size-l"
-  description = "Product Engineering Leader"
+  description = "All Stack Developer"
   AccentColor = "#B58900"
 
   socialIcons = [
