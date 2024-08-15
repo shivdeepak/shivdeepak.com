@@ -34,6 +34,7 @@ disableKinds = ['taxonomy', 'term']
   AccentColor = "#B58900"
 
   socialIcons = [
+    {name = "github", url = "https://github.com/shivdeepak"},
     {name = "x", url = "https://x.com/shivdeepakm"},
     {name = "linkedin", url = "https://www.linkedin.com/in/shivdeepak/"},
     {name = "instagram", url = "https://instagram.com/shivdeepak1st"},
