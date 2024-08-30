@@ -8,19 +8,19 @@ draft = false
 
 Hi There,
 
-I have been coding since high school, and I have 20+ years of programming background. I have built software myself, in a team, and built and managed high performance product engineering teams in the past. Almost all of my professional career is spent in building and growing startups.
+I have been coding since high school and have a 20+ year programming background. I have built software myself and in a team and have also built and managed high-performance product engineering teams. Almost all of my professional career has been spent building and growing startups.
 
-I am big fan of building software that is self-sustainable and can grow itself. I have worked on Product Lead Growth, Gamification, Growth Hacking, and Cloud Cost Optimization in my past roles.
+I am a big fan of building software that is self-sustainable and can grow itself. In my past roles, I have worked on Product Lead Growth, Gamification, Growth Hacking, and Cloud Cost Optimization.
 
-I was very fortunate join the first Y Combinator startup from India, HackerRank (YC S11). I have seen and contributed to it's growth from a seed stage startup with $0 ARR to a enterprise with tens of millions dollars in ARR.
+I was very fortunate to join the first Y Combinator startup from India, HackerRank (YC S11). I have seen and contributed to its growth from a seed-stage startup with $0 ARR to an enterprise with tens of millions in ARR.
 
-I love open source software. When I was in school, I got the opportunity to contribute to open source project Sahana Eden, and was selected for Google Summer of Code 2011, popularly known as GSoC. Only about 1000 students every year get selected for this program.
+I love open-source software. In school, I contributed to the open-source project Sahana Eden and was selected for Google Summer of Code 2011, popularly known as GSoC. Only about 1000 students are selected for this program every year.
 
-More recently, I built two startups. One was a Smart Home Device, I built in public, and raised crowdfunding for it. And another was an Intelligent Email for Sales, which was part of Techstars NYC'23, and got #4 product of the day on Product Hunt.
+More recently, I built two startups. One was a Smart Home Device that I built in public and raised crowdfunding for. Another was an Intelligent Email for Sales that was part of Techstars NYC'23 and got the #4 product of the day on Product Hunt.
 
-I am experienced in a very wide range on tech stacks. And, I love working with Ruby, Python, and Javascript. I am big fan or serveless, and I also deeply experienced in leveraging Public Cloud (AWS, and GCP). I can do front-end, backend, DevOps, and data engineering myself or mentor and manage engineers to do it.
+I am experienced in a vast range of tech stacks. I also love working with Python, Ruby, and Javascript. I am currently learning Rust. I am a big fan of Serveless and deeply experienced in leveraging Public Cloud (AWS and GCP). I can do front-end, backend, DevOps, and data engineering myself or mentor and manage engineers to do it.
 
-I currently do consulting with SaaS startups, and I am open to collaborating on technical content.
+I currently consult with SaaS startups and am open to collaborating on technical content.
 
 Previously:
 - Co-Founder & CTO at Touch AI (Techstars NYC'23) (Intelligent Email for Sales)
