@@ -6,23 +6,23 @@ type = 'page'
 draft = false
 +++
 
-Hi There,
 
-I have been coding since high school and have a 20+ year programming background. I have built software myself and in a team and have also built and managed high-performance product engineering teams. Almost all of my professional career has been spent building and growing startups.
+Shiv Deepak Muddada has been coding since high school and has over 20 years of programming experience. He has a strong background as an individual contributor and leader of software engineering teams and has built and managed high-performance product engineering teams. Throughout his professional career, he has predominantly focused on building and growing startups.
 
-I am a big fan of building software that is self-sustainable and can grow itself. In my past roles, I have worked on Product Lead Growth, Gamification, Growth Hacking, and Cloud Cost Optimization.
+Shiv advocates creating software that is self-sustaining and capable of growing autonomously. In his previous roles, he worked extensively in Product-Led Growth, Gamification, Growth Hacking, and Cloud Cost Optimization.
 
-I was very fortunate to join the first Y Combinator startup from India, HackerRank (YC S11). I have seen and contributed to its growth from a seed-stage startup with $0 ARR to an enterprise with tens of millions in ARR.
+He had the privilege of joining HackerRank (YC S11), India's first Y Combinator aka. YC startup, during its early stages. Shiv contributed significantly to its growth, helping it evolve from a seed-stage startup with $0 ARR to an enterprise with tens of millions in ARR.
 
-I love open-source software. In school, I contributed to the open-source project Sahana Eden and was selected for Google Summer of Code 2011, popularly known as GSoC. Only about 1000 students are selected for this program every year.
+Shiv is passionate about open-source software. During his school years, he contributed to the open-source project Sahana Eden and was selected for the prestigious Google Summer of Code (GSoC) in 2011. This program accepts only about 1,000 students worldwide each year.
 
-More recently, I built two startups. One was a Smart Home Device that I built in public and raised crowdfunding for. Another was an Intelligent Email for Sales that was part of Techstars NYC'23 and got the #4 product of the day on Product Hunt.
+In recent years, Shiv has built two startups. One was a smart home device that was built in public and successfully raised crowdfunding. The other was an Intelligent Email for Sales, which was part of Techstars NYC'23 and achieved recognition as the #4 product of the day on Product Hunt.
 
-I am experienced in a vast range of tech stacks. I also love working with Python, Ruby, and Javascript. I am currently learning Rust. I am a big fan of Serveless and deeply experienced in leveraging Public Cloud (AWS and GCP). I can do front-end, backend, DevOps, and data engineering myself or mentor and manage engineers to do it.
+Shiv is experienced in a wide range of tech stacks and has a particular affinity for Python, Ruby, and JavaScript. He is currently learning Rust. He advocates serverless architecture and has deep expertise in leveraging public cloud services like AWS and GCP. 
 
-I currently consult with SaaS startups and am open to collaborating on technical content.
+He currently consults with SaaS startups and is open to collaborating on technical content.
 
-Previously:
+Previous Roles:
+
 - Co-Founder & CTO at Touch AI (Techstars NYC'23) (Intelligent Email for Sales)
 - Founder of Aeroh (Smart Home IoT Startup)
 - Employee #1 at HackerRank (YC S11) (World's No. 1 Technical Assessment Platform)
