@@ -11,7 +11,7 @@ Shiv Deepak Muddada has been coding since high school and has over 20 years of p
 
 Shiv advocates creating software that is self-sustaining and capable of growing autonomously. In his previous roles, he worked extensively in Product-Led Growth, Gamification, Growth Hacking, and Cloud Cost Optimization.
 
-He had the privilege of joining HackerRank (YC S11), India's first Y Combinator aka. YC startup, during its early stages. Shiv contributed significantly to its growth, helping it evolve from a seed-stage startup with $0 ARR to an enterprise with tens of millions in ARR.
+He had the privilege of joining HackerRank (YC S11), India's first Y Combinator aka. YC startup, during its early stages. Shiv contributed significantly to its growth, helping it growth from a seed-stage startup with $0 ARR to an enterprise with tens of millions in ARR.
 
 Shiv is passionate about open-source software. During his school years, he contributed to the open-source project Sahana Eden and was selected for the prestigious Google Summer of Code (GSoC) in 2011. This program accepts only about 1,000 students worldwide each year.
 
