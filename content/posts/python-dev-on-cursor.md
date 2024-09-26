@@ -8,15 +8,15 @@ type = "post"
 I am trying to move from Emacs to Cursor.
 
 I love Emacs, and I cannot live without Magit, but I have also reached a point where I want to try something new and fast to setup than Emacs. 
-This is the same reason why I moved from Arch Linux to Mac OS back in 2011. Maintaing your code editor should not be a full time job. Haha!
+This is the same reason why I moved from Arch Linux to Mac OS back in 2011. Maintaining your code editor should not be a full time job. Haha!
 
 But, you know what, I might go back to Emacs, if I miss it too much.
 
 Cursor is built on top of VS Code. So, what I am going to write here will also work on VS Code.
 
-I am spending a lot of time writing Python these days, and I want my code editor to have good support for Python.
+I am spending a lot of time writing Python these days, and I want my code editor to has good support for Python.
 
-The bare minimum I want is:
+The bare minimum is:
 
 - Syntax highlighting (do I have to mention it? :D)
 - Intellisense
@@ -50,7 +50,7 @@ To enable type checking, add the following to your VS Code `settings.json` file.
 
 This is the fastest formatter and linter for Python written in Rust. You don't need to install any other formatter or linter.
 
-To enable the linter and farmatter, add the following to your VS Code `settings.json` file.
+To enable the linter and formatter, add the following to your VS Code `settings.json` file.
 
 ```json
 {
